@@ -11,7 +11,6 @@ chardet==3.0.4
 cryptography==2.2.2
 cycler==0.10.0
 decorator==4.3.0
-entrypoints==0.2.3
 gast==0.2.2
 google-auth==1.11.2
 google-auth-oauthlib==0.4.1
@@ -88,7 +87,6 @@ tensorflow==2.1.0
 tensorflow-estimator==2.1.0
 tensorflow-hub==0.7.0
 termcolor==1.1.0
-terminado==0.8.1
 testpath==0.3.1
 textblob==0.15.1
 tornado==5.1
