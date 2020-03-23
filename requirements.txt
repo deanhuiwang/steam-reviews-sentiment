@@ -100,3 +100,10 @@ Werkzeug==1.0.0
 widgetsnbextension==3.3.0
 wordcloud==1.5.0
 wrapt==1.12.0
+Unidecode==1.1.1
+contractions==0.0.24
+pyahocorasick==1.4.0
+textsearch==0.0.17
+beautifulsoup4==4.8.2
+soupsieve==2.0
+autocorrect==0.4.4
