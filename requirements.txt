@@ -104,4 +104,5 @@ pyahocorasick==1.4.0
 textsearch==0.0.17
 beautifulsoup4==4.8.2
 soupsieve==2.0
-autocorrect==0.4.4
+symspellpy==6.5.2
+langdetect==1.0.8
