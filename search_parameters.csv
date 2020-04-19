@@ -1,0 +1,26 @@
+﻿Hidden Units,Learning Rate,Steps,Instances,Optimizer,Activation Function,Batch Normalization,Dropout
+"500, 100",0.003,5000,"100,000",Adagrad,Relu,None,None
+"1000, 100",0.003,10000,"100,000",Adagrad,Relu,None,None
+"1000, 100",0.005,10000,"100,000",Adagrad,Relu,None,None
+"1000, 100",0.001,10000,"100,000",Adagrad,Relu,None,None
+"20000, 100",0.001,10000,"100,000",Adagrad,Relu,None,None
+"20000, 100",0.005,10000,"100,000",Adagrad,Relu,None,None
+"1000, 100",0.005,10000,"100,000",Adadelta,Relu,None,None
+"1000, 100",0.005,10000,"100,000",Adam,Relu,None,None
+"1000, 100",0.005,10000,"100,000",Adamax,Relu,None,None
+"1000, 100",0.005,10000,"100,000",SGD,Relu,None,None
+"1000, 100",0.005,10000,"100,000",RMSprop,Relu,None,None
+"1000, 100",0.005,10000,"100,000",Nadam,Relu,None,None
+"1000, 100",0.005,10000,"100,000",Adagrad,Sigmoid,None,None
+"1000, 100",0.005,10000,"100,000",Adagrad,Selu,None,None
+"1000, 100",0.005,10000,"100,000",Adagrad,Softmax,None,None
+"1000, 100",0.005,10000,"100,000",Adagrad,Tanh,None,None
+"1000, 100",0.005,10000,"100,000",Adagrad,Elu,None,None
+"1000, 100",0.005,10000,"100,000",Adagrad,Relu,FALSE,None
+"1000, 100",0.005,10000,"100,000",Adagrad,Relu,TRUE,None
+"1000, 100",0.005,10000,"100,000",Adagrad,Relu,TRUE,0.2
+"1000, 100",0.005,10000,"100,000",Adagrad,Relu,TRUE,0.6
+"1000, 100",0.005,10000,"100,000",Adagrad,Relu,TRUE,0.1
+"1000, 100",0.005,10000,"100,000",Adagrad,Relu,TRUE,0.05
+"1000, 100, 100",0.005,10000,"100,000",Adagrad,Relu,TRUE,None
+"1000, 100, 100, 100",0.005,10000,"100,000",Adagrad,Relu,TRUE,None
